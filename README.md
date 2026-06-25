@@ -449,8 +449,6 @@ Please follow the existing code style and add comments where the logic is non-tr
 
 <div align="center">
 
-Made with ❤️ and way too much Gemini API quota xd
-
-**[⬆ Back to top](#-prepiq--ai-powered-interview-intelligence-platform)**
+Made with ❤️ and way too much Gemini rate limit xd
 
 </div>
