@@ -1,12 +1,12 @@
 <div align="center">
 
-# InterviewForge — AI-Powered Interview Intelligence Platform
+# InterviewForge : AI-Powered Interview Intelligence Platform
 
 <p align="center">
-  <img src="./assets/banner.png" alt="PrepIQ Banner" width="100%" />
+  <img src="./assets/banner.png" alt="InterviewForge Banner" width="100%" />
 </p>
 
-> **Turn any job description into a personalized interview battle plan — in seconds.**
+> **Turn any job description into a personalized interview battle plan within seconds.**
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
@@ -22,7 +22,7 @@
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [About the Project](#-about-the-project)
 - [Demo & Workflow](#-demo--workflow)
